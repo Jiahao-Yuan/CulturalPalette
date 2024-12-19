@@ -30,14 +30,11 @@ dataset = load_dataset("CulturalPalette/CulturalPalette")
 ## Citation
 If you find our work useful for your research, please kindly cite our paper as follows:
 ```bibtex
-@misc{yuan2024culturalpalettepluralisingculture,
-      title={Cultural Palette: Pluralising Culture Alignment via Multi-agent Palette}, 
-      author={Jiahao Yuan and Zixiang Di and Shangzixin Zhao and Usman Naseem},
-      year={2024},
-      eprint={2412.11167},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2412.11167}, 
+@article{yuan2024cultural,
+  title={Cultural Palette: Pluralising Culture Alignment via Multi-agent Palette},
+  author={Yuan, Jiahao and Di, Zixiang and Zhao, Shangzixin and Naseem, Usman},
+  journal={arXiv preprint arXiv:2412.11167},
+  year={2024}
 }
 ```
 ## Acknowledge
