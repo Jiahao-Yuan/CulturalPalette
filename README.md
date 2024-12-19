@@ -12,7 +12,7 @@ Datasets of the paper "Cultural Palette: Pluralising Culture Alignment via Multi
 We provide an example for downloading our datasets via HuggingFace.
 ```python
 from datasets import load_dataset
-dataset = load_dataset("yjh/CulturalPalette")
+dataset = load_dataset("CulturalPalette/CulturalPalette")
 ```
 ### Format Explanation
 ```json
